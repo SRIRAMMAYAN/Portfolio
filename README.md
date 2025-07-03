@@ -16,11 +16,15 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 my-portfolio/
 │
 ├── index.html # Main HTML file
+|
 ├── /css # Stylesheets
+|
 │ └── style.css
 ├── /js # JavaScript functionality
+|
 │ └── script.js
 ├── /images # Images and assets
+|
 ├── README.md # Project documentation
 
 
